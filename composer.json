@@ -18,10 +18,6 @@
         "psr-4": {
             "SultanAlasmri\\TextReplace\\": "src/"
         }
-    },
-    {
-    "minimum-stability": "dev",
-    "prefer-stable": true
-}
+    }
 
 }
