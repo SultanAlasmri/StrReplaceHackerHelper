@@ -7,7 +7,7 @@
 To install this package, you can use Composer:
 
 ```bash
-composer require your-vendor-name/text-replacer
+composer require SultanAlasmri/text-replacer
 
 use App\Helpers;
 
@@ -25,7 +25,7 @@ echo $replacedText;
 لتثبيت هذه الحزمة، يمكنك استخدام Composer:
 
 ```bash
-composer require your-vendor-name/text-replacer
+composer require SultanAlasmri/text-replacer
 
 
 use App\Helpers;
