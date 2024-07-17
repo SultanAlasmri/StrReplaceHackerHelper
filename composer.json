@@ -1,0 +1,22 @@
+{
+    "name": "your-vendor-name/text-replace",
+    "description": "Text replacement library for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@email.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/support": "^8.0|^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YourVendorName\\TextReplace\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
