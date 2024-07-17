@@ -1,12 +1,13 @@
 {
-    "name": "StrReplaceHackerHelper",
+    "name": "SultanAlasmri/StrReplaceHackerHelper",
     "description": "Text replacement library for Laravel",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "ٍSultan Alasmri",
-            "email": "SultanAlasmri@email.com"
+            "email": "SultanAlasmri@email.com",
+            "homepage": "https://www.sultanalasmri.sa",
         }
     ],
     "require": {
