@@ -1,5 +1,5 @@
 {
-    "name": "text-replace",
+    "name": "StrReplaceHackerHelper",
     "description": "Text replacement library for Laravel",
     "type": "library",
     "license": "MIT",
