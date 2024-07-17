@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YourVendorName\\TextReplace\\": "src/"
+            "SultanAlasmri\\TextReplace\\": "src/"
         }
     },
     "minimum-stability": "dev"
