@@ -1,12 +1,12 @@
 {
-    "name": "your-vendor-name/text-replace",
+    "name": "text-replace",
     "description": "Text replacement library for Laravel",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your@email.com"
+            "name": "ٍSultan Alasmri",
+            "email": "SultanAlasmri@email.com"
         }
     ],
     "require": {
